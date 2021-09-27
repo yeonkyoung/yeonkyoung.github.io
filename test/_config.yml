@@ -89,9 +89,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "LS ITC **AI 빅데이터팀** 기술 블로그"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "LS ITC **AI 빅데이터팀** 기술 블로그"
   location         : "Somewhere"
   links:
     - label: "Your Website"
