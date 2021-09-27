@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "LS ITC AI 빅데이터팀 기술 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "LS ITC **AI 빅데이터팀**"
+name                     : "LS ITC AI 빅데이터팀"
 description              : "LS ITC **AI 빅데이터팀** 기술 블로그 입니다."
 url                      : "https://aibigdatateam.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "LS ITC **AI 빅데이터팀**"
+  name             : "LS ITC AI 빅데이터팀"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "LS ITC **AI 빅데이터팀** 기술 블로그 입니다."
-  location         : "서울 용산구 한강대로 92, LS 타워, 14F"
+  location         : "서울 용산구 한강대로 92,LS타워,14F"
   email            :
   links:
     - label: "Email"
