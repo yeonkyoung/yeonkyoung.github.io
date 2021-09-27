@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 theme                    : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise","default"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Minimal Mistakes"
 title_separator          : "-"
 subtitle                 : "Development Test Site"
-name                     : "Your Name"
+name                     : "LS ITC **AI 빅데이터팀** 기술 블로그"
 description              : "Minimal Mistakes theme test."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/test"
@@ -89,10 +89,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "LS ITC **AI 빅데이터팀** 기술 블로그"
+  name             : "LS ITC **AI 빅데이터팀**"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "LS ITC **AI 빅데이터팀** 기술 블로그"
-  location         : "Somewhere"
+  location         : "서울 용산구 한강대로 92, LS 타워, 14F LS ITC"
   links:
     - label: "Your Website"
       icon: "fas fa-fw fa-link"
